@@ -1,7 +1,7 @@
 # PostgreSQL Access with Python
 
 This project provides a structured approach to accessing a PostgreSQL database using Python 3.11. It utilizes various libraries to handle database connections, queries, and natural language interactions.
-N.B: This is just a practice project. Learning chains and agents and how they work.
+N.B: This is just a practice project. Learning chains and agents and how they work for SQL based applications.
 
 ## Features
 - Secure credential management using `config.ini`
