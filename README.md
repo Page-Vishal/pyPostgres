@@ -16,7 +16,7 @@ N.B: This is just a practice project. Learning chains and agents and how they wo
 Ensure you have Python 3.11 installed on your system.
 
 ### Install Dependencies
-Copy the text in install.txt file and paste in the terminal. I find this more effective than requirements.txt method.
+Copy the text in install.txt file and paste in the terminal. I find this more effective than requirements.txt method..
 
 ## Project Structure
 
